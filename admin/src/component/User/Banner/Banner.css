@@ -1,0 +1,39 @@
+.hero .banner-media{
+    padding: 50px;
+    margin-top:100px ;
+}
+.text-content{
+    padding-right: 20px;
+}
+
+@media (min-width:768px) {
+    .hero {
+      text-align:left;
+    }
+  }
+  @media (min-width:425px) {
+    .hero {
+      text-align:left;
+    }
+  }
+  @media (min-width:768px) {
+    .hero {
+      text-align:left;
+    }
+  }
+  @media (max-width:320px) {
+    .hero {
+      text-align:left;
+    }.img-content img{
+        padding: 0;
+        margin-left: -140px !important;
+        width: 250px;
+    }
+  }
+
+.img-content{
+    padding: 0 100px;
+}
+.hero{
+    background-color: #21323a;
+}

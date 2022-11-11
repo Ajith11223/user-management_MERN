@@ -1,0 +1,21 @@
+.container {
+    max-width: 1650px !important;
+    padding: 17px 0;
+}
+
+.loginBtn {
+    padding: 10px 40px !important;
+}
+
+.submitBtn {
+    padding: 10px 43px !important;
+
+}
+
+.main-Header {
+    background: linear-gradient(135deg, #184e8e, #184e8e);
+    background-color: #184e8e;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%);
+}
